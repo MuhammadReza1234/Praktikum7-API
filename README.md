@@ -162,3 +162,5 @@ ingin di hapus. Misalnya, ingin menghapus data nomor 4, maka URL-nya seperti ini
 Langsung saja klik Send, maka akan mendapatkan pesan bahwa data telah berhasil dihapus dari
 database.
 ![img](web/4.png)
+
+<h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>
