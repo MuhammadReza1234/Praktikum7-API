@@ -1,11 +1,9 @@
 # Praktikum7-API
 
-
-|  | |
 | ----------- | ----------- |
 | <b> Nama     | Muhammad Reza Maulana       |
 | <b> NIM     | 312210303       |
-| <b> Kelas   | TI.22.A.3        |
+| <b> Kelas   | TI.22.A3        |
 | <b> Matakuliah   | Pemrograman Web 2       |
 
 # Praktikum 7: API
