@@ -1,4 +1,4 @@
-# Praktikum 7: API
+<h1><p align="center">Praktikum 7: API</h1><br>
 
 | Nama     | Muhammad Reza Maulana       |
 | <b> NIM     | 312210303       |
