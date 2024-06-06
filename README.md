@@ -3,7 +3,7 @@
 |💻 |DATA MAHASISWA |
 | -------- | --- |
 | **Nama** | Muhammad Reza Maulana|
-| **NIM** | 312010303 |
+| **NIM** | 312210303 |
 | **Kelas** | TI.22.A3 |
 | **Mata Kuliah** | Pemrograman Web 2 |
 
