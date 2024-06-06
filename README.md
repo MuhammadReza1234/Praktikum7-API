@@ -1,9 +1,13 @@
 <h1><p align="center">Praktikum 7: API</h1><br>
 
-| Nama     | Muhammad Reza Maulana       |
-| <b> NIM     | 312210303       |
-| <b> Kelas   | TI.22.A3        |
-| <b> Matakuliah   | Pemrograman Web 2     |
+|💻 |DATA MAHASISWA |
+| -------- | --- |
+| **Nama** | Muhammad Reza Maulana|
+| **NIM** | 312010303 |
+| **Kelas** | TI.22.A3 |
+| **Mata Kuliah** | Pemrograman Web 2 |
+
+---
 
 ## Apa itu REST API?
 Representational State Transfer (REST) adalah salah satu desain arsitektur Application Programming Interface (API). API sendiri merupakan interface yang menjadi perantara yang menghubungkan satu aplikasi dengan aplikasi lainnya. REST API berisi aturan untuk membuat web service dengan membatasi hak akses client yang mengakses API. Kenapa harus demikian? Jika dianalogikan sebagai restoran, REST API adalah daftar menu. Pelanggan hanya bisa memesan sesuai daftar menu meskipun si koki (server) bisa membuatkan pesanan tersebut.
